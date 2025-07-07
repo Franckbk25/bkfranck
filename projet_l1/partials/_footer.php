@@ -28,10 +28,14 @@
                 </div>
             </div>
             <div class="col-lg-5 col-md-12 mb-5">
-                <h5 class="text-primary text-uppercase mb-4" style="letter-spacing: 5px;">Newsletter</h5>
-                <p>Rebum labore lorem dolores kasd est, et ipsum amet et at kasd, ipsum sea tempor magna tempor.
-                    Accu kasd sed ea duo ipsum. Dolor duo eirmod sea justo no lorem est diam</p>
-            </div>
+    <h5 class="text-primary text-uppercase mb-4" style="letter-spacing: 5px;">A titre d’information </h5>
+    <p>
+        Restez informé des dernières actualités de l’université, des nouvelles sessions de cours de langues 
+        (Français, Espagnol, Russe, Anglais) et des dates importantes d’inscription. 
+        Abonnez-vous à notre newsletter pour ne rien manquer !
+    </p>
+</div>
+
         </div>
     </div>
     <!-- Footer End -->
